@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Wallpaper Slideshow</string>
+    <string name="wallpaper_label">Wallpaper Slideshow</string>
+    <string name="wallpaper_description">Cycles through every picture in a folder you choose.</string>
+    <string name="settings_title">Settings</string>
+
+    <!-- Main screen -->
+    <string name="main_headline">Folder Wallpaper</string>
+    <string name="main_subtitle">Pick a folder full of pictures and let them rotate as your live wallpaper.</string>
+    <string name="no_folder_selected">No folder selected yet</string>
+    <string name="btn_pick_folder">Pick picture folder</string>
+    <string name="btn_settings">Slideshow settings</string>
+    <string name="btn_set_wallpaper">Set as live wallpaper</string>
+    <string name="folder_saved">Folder saved</string>
+    <string name="pick_folder_first">Pick a picture folder first</string>
+    <string name="no_wallpaper_picker">No live wallpaper picker found on this device</string>
+
+    <!-- Settings -->
+    <string name="pref_cat_folder">Picture folder</string>
+    <string name="pref_pick_folder_title">Choose folder</string>
+    <string name="pref_pick_folder_summary">Pick the folder that holds your pictures</string>
+    <string name="pref_current_folder_title">Current folder</string>
+
+    <string name="pref_cat_playback">Playback</string>
+    <string name="pref_duration_title">Duration per picture (seconds)</string>
+    <string name="pref_transition_title">Transition effect</string>
+    <string name="pref_transition_duration_title">Transition speed (ms)</string>
+    <string name="pref_shuffle_title">Shuffle order</string>
+    <string name="pref_shuffle_summary">Show pictures in a random order</string>
+</resources>

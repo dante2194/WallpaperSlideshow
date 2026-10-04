@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transition_entries">
+        <item>None (instant swap)</item>
+        <item>Fade</item>
+        <item>Slide from right</item>
+        <item>Slide from bottom</item>
+        <item>Zoom &amp; fade</item>
+    </string-array>
+
+    <string-array name="transition_values">
+        <item>none</item>
+        <item>fade</item>
+        <item>slide_left</item>
+        <item>slide_up</item>
+        <item>zoom</item>
+    </string-array>
+</resources>
